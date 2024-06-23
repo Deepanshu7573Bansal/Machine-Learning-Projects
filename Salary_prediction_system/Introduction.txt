@@ -1,0 +1,14 @@
+In salary prediction system project i use some concept of Machine learning, General python, and Streamlit.
+
+Jupiter notebook:
+In jupiter notebook i write a code step by step.
+step1: Import library(such numpy, pandas).
+step2: Read csv file.
+step3: check null values, drop unuseful columns, duplicate rows.
+step4: Remone na(null) rows.
+step5: Assign different column to different variable(to calculation in prediction function).
+step6: Create prediction function to make prediction.
+In step6 all input values compare according to their columns data. Then check experience and calculate(average,mean).
+step7: Print output
+
+Note: In this model, dataset it too small and mostly row is unique job title(so model is not good).
