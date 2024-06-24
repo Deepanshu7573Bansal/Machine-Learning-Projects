@@ -1,0 +1,25 @@
+In student performance prediction i choose StudentsPerformance.csv dataset in which total 8 columns.
+
+Column name:
+1. gender
+2. race/ethnicity
+3. parental level of education	
+4. lunch	test preparation course	
+5. math score	
+6. reading score	
+7. writing score
+
+Some step apply on dataset:
+1. Import library(numpy, pandas, matplotlib, seaborn).
+2. Read csv file.
+3. data.head(), null values, unique value in each columns, duplicate rows.
+4. Apply LabelEncoder on gender, race/ethnicity, parental level of education, test preparation course column.
+5. Countplot on gender column.
+6. Reduce lunch column(because in student performance lunch category has no role).
+7. Create new column Average score(round fraction to 2) by reduce column math score, reading score, writing score.
+8. Remove duplicate rows.
+9. Divide input and output column.
+10. Apply voting regression(use three algorithm LinearRegression, DecisionTreeRegressor, RandomForestRegressor).
+11. Use votingRegressor class, fit, predict.
+12. Check answer of given input.
+13. Create pickle file and apply streamlit code.
