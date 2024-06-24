@@ -1,3 +1,6 @@
+Prediction system name: Student performance prediction
+Dataset name: StudentsPerformance.csv
+
 In student performance prediction i choose StudentsPerformance.csv dataset in which total 8 columns.
 
 Column name:
