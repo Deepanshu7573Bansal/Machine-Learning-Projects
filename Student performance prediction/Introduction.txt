@@ -7,10 +7,11 @@ Column name:
 1. gender
 2. race/ethnicity
 3. parental level of education	
-4. lunch	test preparation course	
-5. math score	
-6. reading score	
-7. writing score
+4. lunch	
+5. test preparation course	
+6. math score	
+7. reading score	
+8. writing score
 
 Some step apply on dataset:
 1. Import library(numpy, pandas, matplotlib, seaborn).
