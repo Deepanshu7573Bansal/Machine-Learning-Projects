@@ -1,0 +1,7 @@
+House Price Prediction based on Machine Learning Algorithm(Linear Regression).
+Dataset name: Housing.csv
+Dataset size: (545, 13)
+Jupiter notebook: House Price Prediction.ipynb
+Python file: HousePricePrediction.py
+
+Note: Python file use to make frontend using streamlit.
