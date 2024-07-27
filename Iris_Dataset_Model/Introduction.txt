@@ -1,0 +1,7 @@
+Iris Dataset Model based on Machine Learning Algorithm(K-Nearest Neighbours classification).
+Dataset name: Iris.csv
+Dataset size: (150, 6)
+Jupiter notebook: Iris dataset model.ipynb
+Python file: IrisModel.py
+
+Note: Python file use to make frontend using streamlit.
